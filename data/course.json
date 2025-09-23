@@ -1,0 +1,56 @@
+{
+  "term": "Fall",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Biochemistry"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neurobiology"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Health and Medicine",
+      "Pharmacology and Toxicology"
+    ]
+  ],
+  "legacy_uid": "16197636-c270-e1ab-179f-bc9a56c72787",
+  "instructors": {
+    "content": [
+      "ef1020dd-bbc3-1bb9-4297-0f0557c9daec"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "999a1828-cfd8-7c37-0be8-c4f13f3305d0",
+    "website": "9-15-biochemistry-and-pharmacology-of-synaptic-transmission-fall-2007"
+  },
+  "course_title": "Biochemistry and Pharmacology of Synaptic Transmission",
+  "course_description": "This course considers the process of neurotransmission, especially chemicals used in the brain and elsewhere to carry signals from nerve terminals to the structures they innervate. We focus on monoamine transmitters (acetylcholine; serotonin; dopamine and norepinephrine); we also examine amino acid and peptide transmitters and neuromodulators like adenosine. Macromolecules that mediate neurotransmitter synthesis, release, inactivation and receptor-mediated actions are discussed, as well as factors that regulate their activity and the second-messenger systems and ion fluxes that they control. The involvement of particular neurotransmitters in human diseases is considered.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "9.150",
+  "primary_course_number": "9.15",
+  "course_image_thumbnail": {
+    "content": "58427ca7-f959-3b1f-01a5-21650370105f",
+    "website": "9-15-biochemistry-and-pharmacology-of-synaptic-transmission-fall-2007"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "edece9a0-3e42-4654-b233-b13607b53b55",
+  "site_short_id": "9.15-fall-2007",
+  "site_url_path": "courses/9-15-biochemistry-and-pharmacology-of-synaptic-transmission-fall-2007",
+  "title": "Course Metadata"
+}
