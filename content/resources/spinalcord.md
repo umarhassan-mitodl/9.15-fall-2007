@@ -6,8 +6,6 @@ description: Lecture handout with a diagram of a Spinal Cord Section, highlighti
 file: /courses/9-15-biochemistry-and-pharmacology-of-synaptic-transmission-fall-2007/994f8d5eedcacb2542dfc3ba224f96f8_spinalcord.pdf
 file_size: 126139
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
